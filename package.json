@@ -1,0 +1,14 @@
+{
+  "name": "play-button-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/midleman/play-button-repro.git",
+  "author": "Marie Idleman <marie.idleman@posit.co>",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.48.1",
+    "@types/node": "^22.7.7",
+    "electron": "^33.0.1"
+  },
+  "scripts": {}
+}
