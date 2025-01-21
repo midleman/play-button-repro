@@ -6,7 +6,7 @@
   "author": "Marie Idleman <marie.idleman@posit.co>",
   "license": "MIT",
   "devDependencies": {
-    "@playwright/test": "^1.49.0-alpha-2024-10-28",
+    "@playwright/test": "^1.49.1",
     "@types/node": "^22.7.7",
     "electron": "^33.0.1"
   },
